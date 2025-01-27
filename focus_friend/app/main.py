@@ -1,4 +1,4 @@
-from counter import counter
+from .counter import counter
 
 
 def get_times(input_times: str) -> int:
